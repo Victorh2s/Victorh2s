@@ -27,4 +27,4 @@
 
 Apaixonado pela tecnologia.<br>
 <i>"A criatividade é pensar coisas novas. A inovação é fazer coisas novas."<i> <b>Theodore Levitt<b>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victorhdss6&repo=github-readme-stats)]
+

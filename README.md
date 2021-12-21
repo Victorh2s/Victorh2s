@@ -18,7 +18,8 @@
 </br>
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorhdss6&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorhdss6&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victorhdss6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-778a72223/)
@@ -26,3 +27,4 @@
 
 Apaixonado pela tecnologia.<br>
 <i>"A criatividade é pensar coisas novas. A inovação é fazer coisas novas."<i> <b>Theodore Levitt<b>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Victorhdss6&repo=github-readme-stats)]

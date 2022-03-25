@@ -25,6 +25,6 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-henrique-778a72223/)
 [![Email]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:victor.henriqueoff@gmail.com)
 
-Apaixonado pela tecnologia.<br>
+
 <i>"A criatividade é pensar coisas novas. A inovação é fazer coisas novas."<i> <b>Theodore Levitt<b>
 

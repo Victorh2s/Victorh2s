@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a) ao meu perfil👋
 
- 😎Eu sou o Victor Henrique, Desenvolvedor Web Full Stack e futuramente Mobile também.
+    Desenvolvedor Web Full Stack.
 
  💻Tenho conhecimento nas seguintes tecnologias: 
 

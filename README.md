@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a) ao meu perfil👋
 
-    Meu nome e Victor, atualmente sou Desenvolvedor Front-End focado em ReactJs.
+    Meu nome e Victor, atualmente sou Desenvolvedor Front-End focado em ReactJs/NextJs.
 
  💻Tenho conhecimento nas seguintes tecnologias: 
 

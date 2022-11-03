@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a) ao meu perfil👋
 
-    Desenvolvedor Web Full Stack.
+    Meu nome e Victor e atualmente sou Desenvolvedor Web Full Stack.
 
  💻Tenho conhecimento nas seguintes tecnologias: 
 

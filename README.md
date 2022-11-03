@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a) ao meu perfil👋
 
-    Meu nome e Victor e atualmente sou Desenvolvedor Web Full Stack.
+    Meu nome e Victor, atualmente sou Desenvolvedor Front-End focado em ReactJs.
 
  💻Tenho conhecimento nas seguintes tecnologias: 
 

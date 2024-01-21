@@ -26,5 +26,3 @@
 [![Email]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:victor.henriqueoff@gmail.com)
 
 
-<i>"A criatividade é pensar coisas novas. A inovação é fazer coisas novas."<i> <b>Theodore Levitt<b>
-

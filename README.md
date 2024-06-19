@@ -1,8 +1,7 @@
 ### Olá! Seja bem-vindo(a) ao meu perfil👋
 
-    Meu nome é Victor, atualmente sou Desenvolvedor Full stack com foco em Back-end.
+    Desenvolvedor Full stack com foco em Back-end.
 
- 💻Tenho conhecimento nas seguintes tecnologias: 
 
  <div style = "display: inline_block>
     <img align="center" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />

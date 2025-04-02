@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a) ao meu perfil👋
 
-    Desenvolvedor Full stack com foco em Back-end.
+    Desenvolvedor Back-End.
 
 
  <div style = "display: inline_block>

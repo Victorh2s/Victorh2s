@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a) ao meu perfil👋
 
-    Desenvolvedor Back-End.
+    Desenvolvedor Back-End focado em resolver problemas de uma maneira prática.
 
 
 <div style="display: inline_block">
